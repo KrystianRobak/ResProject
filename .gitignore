@@ -1,3 +1,21 @@
+Binaries
+DerievedDataCache
+Intermediate
+Saved
+Build
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
