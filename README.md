@@ -1,6 +1,6 @@
-# Another Game
+# ResProjekt
 
-**Another Game** is an **isometric adventure game** with **fast-paced combat** and a **stylized aesthetic**. The player takes control of a hero wielding a magic book with chain or a short sword with whip, navigating through handcrafted levels filled with challenges, enemies, and puzzles.
+ResProjekt is an isometric adventure game with fast-paced combat and a stylized aesthetic. The player takes control of a hero wielding a magic book with chain or a short sword with whip, navigating through handcrafted levels filled with challenges, enemies, and puzzles.
 
 ## Features
 
