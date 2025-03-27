@@ -1,13 +1,12 @@
-# ResProjekt
+# ResProjekt (WIP)
 
 ResProjekt is an isometric adventure game with fast-paced combat and a stylized aesthetic. The player takes control of a hero wielding a magic book with chain or a short sword with whip, navigating through handcrafted levels filled with challenges, enemies, and puzzles.
 
 ## Features
 
-- **Fast and Flashy Combat** – Engage in intense battles with quick attacks and magical abilities.
+- **Fast and Flashy Combat** – fast paced battles with quick attacks and magical abilities.
 - **Weapon-Based Puzzle Mechanics** – Use the chain to pull platforms and the whip to activate distant levers.
-- **Stylized Visuals** – A unique artistic approach to isometric environments.
-- **Handcrafted Levels** – Designed from the ground up for an immersive experience.
+- **Stylized Visuals** – Stylized isometric environments.
 - **Sequential Boss Fights** – Focused on mechanics rather than brute force.
 
 ## Combat System
