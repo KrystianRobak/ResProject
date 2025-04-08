@@ -25,7 +25,7 @@ ResProjekt is an isometric adventure game with fast-paced combat and a stylized 
 
 ### Parkour and movement
 
-https://github.com/user-attachments/assets/22641651-2ef4-409e-8a24-ffdc2af09860
+https://github.com/user-attachments/assets/9572be48-c163-4054-8a26-f8ec14561f13
 
 ### Escort NPC mini game
 Tactical stealth minigame where you guide an NPC through a guarded map filled with patrolling enemies.
